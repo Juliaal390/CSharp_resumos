@@ -1,4 +1,6 @@
-/* INTERFACES: descrevem características de propriedades, mas deixam a implementação para estruturas ou classes. Normalmente ficam em arquivos separados como módulos/classes. EX.: IAbastecimentoService.cs */
+/* INTERFACES: descrevem características de propriedades, mas deixam a implementação para estruturas ou classes. Normalmente ficam em arquivos separados como módulos/classes. EX.: IAbastecimentoService.cs.
+OSB.: Classes que implementam interfaces são obrigadas a implementar todos os métodos presentes.
+*/
 using System;
 
 // Declaração da interface

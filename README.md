@@ -22,8 +22,9 @@ Programação orientada à objetos (POO)
 - 07: classes ABSTRACT (possuem métodos abstracts obrigatórios e não abstracts).
 - 08: classes SELEAD (não podem ser herdadas).
 - 09: GET e SET.
-- 10: interfaces.
+- 10: interfaces (semelhante a métodos abstract, mas sem implementação).
 - 11: métodos STATIC (podem ser acessados sem instanciar a classe).
+- 12: :Base (chama o construtor da classe base).
 - ## MODULO 03
 Conceitos mais aprofundados
 - 01: TRY-CATCH-FINALLY.
