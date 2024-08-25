@@ -10,7 +10,7 @@ Conceitos básicos do CSharp (C#)
 - 08: métodos de arrays (getvalue, indexof, sort, etc).
 - 09: passagem de valores por parâmetro e por referência.
 - 10: parâmetro PARAMS (permite múltiplos parâmetros).
-- 11: structs
+- 11: structs.
 ## MODULO 02
 Programação orientada à objetos (POO)
 - 01: o básico de uma classe.
@@ -25,6 +25,7 @@ Programação orientada à objetos (POO)
 - 10: interfaces (semelhante a métodos abstract, mas sem implementação).
 - 11: métodos STATIC (podem ser acessados sem instanciar a classe).
 - 12: :Base (chama o construtor da classe base).
+- 13: readonly.
 - ## MODULO 03
 Conceitos mais aprofundados
 - 01: TRY-CATCH-FINALLY.
