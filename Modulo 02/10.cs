@@ -1,5 +1,5 @@
 /* INTERFACES: descrevem características de propriedades, mas deixam a implementação para estruturas ou classes. Normalmente ficam em arquivos separados como módulos/classes. EX.: IAbastecimentoService.cs.
-OSB.: Classes que implementam interfaces são obrigadas a implementar todos os métodos presentes.
+OBS.: Classes que implementam interfaces são obrigadas a implementar todos os métodos presentes.
 */
 using System;
 
@@ -31,3 +31,6 @@ class Principal {
         Console.WriteLine($"Nome do cachorro: {meuCachorro.Nome}");
     }
 }
+/*
+OBS.: a classe cachorro não pode ter métodos que não estão definidos na interface, foi foi instanciada como tipo IAnimal. Se trocar a linha por Cachorro meuCachorro = new Cachorro { Nome = "Rex" }; não ocasionará erro
+*/
