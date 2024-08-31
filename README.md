@@ -11,6 +11,7 @@ Conceitos básicos do CSharp (C#)
 - 09: passagem de valores por parâmetro e por referência.
 - 10: parâmetro PARAMS (permite múltiplos parâmetros).
 - 11: structs.
+- 12: parâmetros opcionais e argumentos nomeados.
 ## MODULO 02
 Programação orientada à objetos (POO)
 - 01: o básico de uma classe.
