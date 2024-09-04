@@ -33,3 +33,4 @@ Conceitos mais aprofundados
 - 02: dictionary (armazena pares de valores).
 - 03: listas.
 - 04: filas.
+- 05: listas do tipo CLASSE e uso do tipo Guid.
