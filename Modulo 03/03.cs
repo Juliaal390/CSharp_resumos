@@ -7,6 +7,7 @@ class Programa {
     static void Main() {
         // Cria uma lista de strings
         List<string> frutas = new List<string>();
+        //List<string> listaComValores = new List<string>{"U2","The Beatles"};
 
         // Adiciona elementos à lista
         frutas.Add("Maçã");
