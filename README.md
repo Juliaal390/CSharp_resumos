@@ -36,3 +36,4 @@ Conceitos mais aprofundados
 - 05: listas do tipo CLASSE e uso do tipo Guid.
 - 06: variáveis do tipo Object.
 - 07: IEnumerable.
+- 08: StringBuilder.
